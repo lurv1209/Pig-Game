@@ -7,7 +7,7 @@ Hold your current score if you want to secure it 🔒, which will then hand the 
 
 Additionally,
 Press 'r' key to roll dice.
-Press 'h' key to hold.
+Press 'h' key to hold score.
 
 FIRST TO 100 WINS! 🏆
 HAVE FUN!
