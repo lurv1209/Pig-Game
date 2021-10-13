@@ -1,7 +1,7 @@
 'use strict';
 
 // Set the score to win
-const scoreToWin = 20;
+const scoreToWin = 100;
 // Selecting elements
 const player0_element = document.querySelector('.player--0');
 const player1_element = document.querySelector('.player--1');
