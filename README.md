@@ -12,4 +12,4 @@ Press 'h' key to hold.
 FIRST TO 100 WINS! 🏆
 HAVE FUN!
 
-You can find the game here 
+You can find the game here https://pig-game-lurv.netlify.app/
